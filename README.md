@@ -35,7 +35,7 @@ We use all the letters from the Synthetic ASL Letters set, numbers 1-4 of the Sy
 ## Model Demonstration
 1. Clone the repository using 
 ```
-$ git clone https://github.com/Kennethm-spec/ASL-Auto-Complete.git
+$ git clone https://github.com/Alban999/ASL-Auto-Complete.git
 ```
  or [download as zip](https://github.com/Kennethm-spec/ASL-Auto-Complete/archive/refs/heads/main.zip) and extract the files.
 
